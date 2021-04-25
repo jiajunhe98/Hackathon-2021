@@ -18,7 +18,7 @@ An outline of our work and result can be found [here](https://github.com/hejj16/
 
 A more detailed description is shown below.
 
-<br/><br/>
+<br/>
 
 ## Description of the task
 
