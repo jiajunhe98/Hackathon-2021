@@ -48,7 +48,7 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 |Transformer Embedding + LSTMs|**0.8912**|**0.5940**|
 
 
-
+![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Single.PNG)
 
 ## Conclusions and Discussions
 
