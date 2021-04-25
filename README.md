@@ -45,7 +45,7 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 |MLP|0.8451|0.3177|
 |RF|0.8136|0.3827|
 |SVM|0.8350|0.4089|
-|Transformer Embedding + LSTMs|0.8912|0.5940|
+|Transformer Embedding + LSTMs|**0.8912**|**0.5940**|
 
 
 ## Conclusions and Discussions
