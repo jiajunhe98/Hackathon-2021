@@ -33,6 +33,8 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 
 ### 2.1 Description of Simple Machine Learning Methods
 
+[Here](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Simple_Model_LZL.ipynb) is the notebook for there models.
+
 
 
 ### 2.2 Description of Deep Learning Models with transformer and LSTMs
@@ -46,7 +48,10 @@ The overall structure is:
 
 We also used Transformer to predict contact map, and combined it in using attention mechanisms. But we found that there is no very significant improvement, so just to keep the model simple, we do not use the contact map for our final results.
 
-
+Here are the notebooks for these models:
+[Transformer+LSTM using SS](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_with_SS_without_Contact_Map.ipynb)
+[Transformer+LSTM without SS](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_without_SS_without_Contact_Map.ipynb)
+[Transformer+LSTM+Contact Map](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_with_Contact_Map.ipynb)
 
 
 
