@@ -57,7 +57,10 @@ Plots on Test data:
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Multiple.PNG)
 
 ### 3.2 The necessity of Secondary Structure
-Besides, we explored the necessity of Secondary Structure
+Besides, we explored the necessity of Secondary Structure, and actually found that it is unnecessary for our task. 
+
+We bulid 2 models, one with SS, one without SS, results are as follows:
+
 
 ## 4 Conclusions and Discussions
 - Better feature engineering yields better results. Transformer embedding is better than simple one-hot ecoding in our task.
