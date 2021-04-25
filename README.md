@@ -36,8 +36,17 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 
 
 ### 2.2 Description of Deep Learning Models with transformer and LSTMs
-The overall architecture:
+We first got latent embedding for each amino acids by transformer([ESM-1b pretrained Model](https://github.com/facebookresearch/esm)). Then we built RNN with LSTMs to get the prediction.
+
+The overall structure is:
+
+
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Model_Arch.png)
+
+
+We also used Transformer to predict contact map, and combined it in using attention mechanisms. 
+
+
 
 
 
