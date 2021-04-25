@@ -55,6 +55,15 @@ Results for Test data of each model is as follows:
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Multiple.PNG)
 
 ## Conclusions and Discussions
+- Better feature engineering yields better results. Transformer embedding is better than simple one-hot ecoding in our task.
+
+- Multiple mutation data is harder to predict than single mutation data, especially those protein with a negative score.
+
+- Secondary structure is almost redundant for our task.
+  - Possible Reasons:
+    - We have only 4 original sequences. So our task can be seen as 4 individual regressions, and the secondary structure only serves as a category label.
+    - If the original energies are thought to be similar, then all the information is stored in the mutated amino acid sequence.
+
 
 ## Future Plans
 
