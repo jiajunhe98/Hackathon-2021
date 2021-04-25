@@ -6,7 +6,7 @@
 
 
 
-This repository stores the code and results in BioHackathon-2021, aiming to predict the stability of mutanted proteins.
+This repository stores the code and results in BioHackathon-2021, aiming to predict the stability of mutated proteins.
 
 The descriptions of this Hackathon can be found [here](https://biohackathon.biolib.com/event/2021-protein-edition).
 
@@ -19,6 +19,13 @@ An outline of our work and result can be found [here](https://github.com/hejj16/
 A more detailed description is shown below.
 
 <br/><br/>
+
+## Description of the task
+
+- The main task for us is to use the amino acids sequence of mini-protein (43 a.a. length) and their secondary structure information to predict their structural stability.
+- The inputs are a.a. sequence (20 kinds of standard a.a., and non-standard, in total 21 kinds) and secondary structure (E, T, H; 3 kinds) sequence.
+- This is a regression task and will output the stability score change of the mutated mini-protein (a score proportion to ΔG).
+
 
 ## An outline of our work
 
