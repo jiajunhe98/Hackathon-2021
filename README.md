@@ -37,6 +37,7 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 
 ### 2.2 Description of Deep Learning Models with transformer and LSTMs
 The overall architecture:
+![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Model_Arch.png)
 
 
 
