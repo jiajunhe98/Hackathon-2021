@@ -32,6 +32,7 @@ A more detailed description is shown below.
 We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep Learning Models with transformer and LSTMs.
 
 ### 2.1 Simple Machine Learning Methods
+One-hot encoding for Amino acids and for secondary structures. MLP, RF and SVM to perform the regression.
 
 [Here](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Simple_Model_LZL.ipynb) is the notebook for there models.
 
