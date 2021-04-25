@@ -20,28 +20,28 @@ A more detailed description is shown below.
 
 <br/>
 
-## Description of the task
+## 1 Description of the task
 
 - The main task for us is to use the amino acids sequence of mini-protein (43 a.a. length) and their secondary structure information to predict their structural stability.
 - The inputs are a.a. sequence (20 kinds of standard a.a., and non-standard, in total 21 kinds) and secondary structure (E, T, H; 3 kinds) sequence.
 - This is a regression task and will output the stability score change of the mutated mini-protein (a score proportion to ΔG).
 
 
-## An outline of our work
+## 2 An outline of our work
 
 We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep Learning Models with transformer and LSTMs.
 
-### Description of Simple Machine Learning Methods
+### 2.1 Description of Simple Machine Learning Methods
 
 
 
-### Description of Deep Learning Models with transformer and LSTMs
+### 2.2 Description of Deep Learning Models with transformer and LSTMs
 
 
 
-## Results and Plots
+## 3 Results and Plots
 
-### Correlection Coefficient and Plots for each Model:
+### 3.1 Correlection Coefficient and Plots for each Model:
 |Model|Correlation Coefficient for Single Mutation|Correlation Coefficient for Multiple Mutation|
 |---|---|---|
 |MLP|0.8451|0.3177|
@@ -49,17 +49,17 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 |SVM|0.8350|0.4089|
 |Transformer Embedding + LSTMs|**0.8912**|**0.5940**|
 
-Results for Test data of each model is as follows:
+Plots on Test data:
 
 **Single Mutation:**
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Single.PNG)
 **Multiple Mutations:**
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Multiple.PNG)
 
-### The necessity of Secondary Structure
+### 3.2 The necessity of Secondary Structure
 Besides, we explored the necessity of Secondary Structure
 
-## Conclusions and Discussions
+## 4 Conclusions and Discussions
 - Better feature engineering yields better results. Transformer embedding is better than simple one-hot ecoding in our task.
 
 - Multiple mutation data is harder to predict than single mutation data, especially those protein with a negative score.
@@ -70,6 +70,6 @@ Besides, we explored the necessity of Secondary Structure
     - If the original energies are thought to be similar, then all the information is stored in the mutated amino acid sequence.
 
 
-## Future Plans
+## 5 Future Plans
 
 
