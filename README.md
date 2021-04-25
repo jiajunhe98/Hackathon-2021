@@ -61,7 +61,7 @@ Besides, we explored the necessity of Secondary Structure, and actually found th
 
 We bulid 2 models, one with SS, one without SS, results are as follows:
 
-![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/SS.PNG)
+![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/SS_without_SS.PNG)
 
 ## 4 Conclusions and Discussions
 - Better feature engineering yields better results. Transformer embedding is better than simple one-hot ecoding in our task.
