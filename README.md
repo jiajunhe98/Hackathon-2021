@@ -37,3 +37,12 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 
 ### Description of Deep Learning Models with transformer and LSTMs
 
+
+
+## Results and Plots
+
+## Conclusions and Discussions
+
+## Future Plans
+
+
