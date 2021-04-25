@@ -40,6 +40,8 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 
 
 ## Results and Plots
+
+### Correlection Coefficient and Plots for each Model:
 |Model|Correlation Coefficient for Single Mutation|Correlation Coefficient for Multiple Mutation|
 |---|---|---|
 |MLP|0.8451|0.3177|
@@ -49,10 +51,13 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 
 Results for Test data of each model is as follows:
 
-**Single Mutation**
+**Single Mutation:**
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Single.PNG)
-**Multiple Mutations**
+**Multiple Mutations:**
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Multiple.PNG)
+
+### The necessity of Secondary Structure
+Besides, we explored the necessity of Secondary Structure
 
 ## Conclusions and Discussions
 - Better feature engineering yields better results. Transformer embedding is better than simple one-hot ecoding in our task.
