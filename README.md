@@ -29,3 +29,7 @@ A more detailed description is shown below.
 
 ## An outline of our work
 
+We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep Learning Models with transformer and LSTMs.
+
+
+
