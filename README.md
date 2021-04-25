@@ -76,4 +76,11 @@ We bulid 2 models, one with SS, one without SS, results are as follows:
 
 ## 5 Future Plans
 
+- Fine tuning for each dataset respectively.
+
+- Better feature engineering, e.g., considering the chemical properties of amino acids.
+
+- Better architecture, e.g., transfer Learning by Transformer, etc.
+
+- Use more proteins to collect mutation data. (better from different organisms and environments)
 
