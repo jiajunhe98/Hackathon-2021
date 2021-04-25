@@ -102,4 +102,8 @@ We bulid 2 models, one with SS, one without SS, results are as follows:
 
 
 ## Bibliography
-Rocklin, Gabriel J et al. “Global analysis of protein folding using massively parallel design, synthesis, and testing.” *Science (New York, N.Y.)* vol. 357,6347 (2017): 168-175. doi:10.1126/science.aan0693
+Rocklin, G. J.. Global analysis of protein folding using massively parallel design, synthesis, and testing. Science 357, 168–175 (2017).
+
+Rives, A.. Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences. (2019). doi:10.1101/622803
+
+Rao, R. M., Meier, J., Sercu, T., Ovchinnikov, S. & Rives, A.. Transformer protein language models are unsupervised structure learners. (2020). doi:10.1101/2020.12.15.422761
