@@ -102,4 +102,4 @@ We bulid 2 models, one with SS, one without SS, results are as follows:
 
 
 ## Bibliography
-
+Rocklin, Gabriel J et al. “Global analysis of protein folding using massively parallel design, synthesis, and testing.” *Science (New York, N.Y.)* vol. 357,6347 (2017): 168-175. doi:10.1126/science.aan0693
