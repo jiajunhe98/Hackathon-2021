@@ -47,8 +47,12 @@ We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep L
 |SVM|0.8350|0.4089|
 |Transformer Embedding + LSTMs|**0.8912**|**0.5940**|
 
+Results for Test data of each model is as follows:
 
+**Single Mutation**
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Single.PNG)
+**Multiple Mutations**
+![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Multiple.PNG)
 
 ## Conclusions and Discussions
 
