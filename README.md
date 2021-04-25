@@ -31,13 +31,13 @@ A more detailed description is shown below.
 
 We perform 2 kinds of models: Simple Machine Learning Methods and Complex Deep Learning Models with transformer and LSTMs.
 
-### 2.1 Description of Simple Machine Learning Methods
+### 2.1 Simple Machine Learning Methods
 
 [Here](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Simple_Model_LZL.ipynb) is the notebook for there models.
 
 
 
-### 2.2 Description of Deep Learning Models with transformer and LSTMs
+### 2.2 Deep Learning Models with transformer and LSTMs
 We first got latent embedding for each amino acids by transformer([ESM-1b pretrained Model](https://github.com/facebookresearch/esm)). Then we built RNN with LSTMs to get the prediction.
 
 The overall structure is:
