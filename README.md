@@ -42,7 +42,7 @@ The overall structure is:
 ![image](https://github.com/hejj16/Hackathon-2021/blob/main/Plot/Model_Arch.png)
 
 
-We also used Transformer to predict contact map, and combined it in using attention mechanisms. But we found that there is no very significant improvement, so just to keep the model simple, we do not use the contact map for our final results.
+We also used Transformer to predict contact map, and combined it in using attention mechanisms. But we found that there is no very significant improvement(only 0.001 higher than Model 2; more details can be found in the "NoteBook for testing"), so just to keep the model simple, we do not use the contact map for our final results.
 
 Here are the notebooks for these models:
 
