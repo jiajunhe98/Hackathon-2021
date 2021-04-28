@@ -55,7 +55,7 @@ Model 3: [Transformer+LSTM+Contact Map](https://github.com/hejj16/Hackathon-2021
 
 [NoteBook for testing](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Test_Transformer_LSTM%20(1).ipynb)
 
-* Some weights are retrained, so there are some slight difference from the result below. But the overall trends and conclusion are the same.
+\*Some weights are retrained, so there are some slight difference from the result below. But the overall trends and conclusion are the same.
 
 
 
