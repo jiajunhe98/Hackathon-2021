@@ -9,7 +9,7 @@ The data comes from this article https://www.bakerlab.org/wp-content/uploads/201
 
 This our [team page](https://biolib.com/SVM2/Spaghetti-Vector-Monster-2/). Team members: [Jiajun He](https://github.com/hejj16), [Zelin Li](https://github.com/lzlniu).
 
-An outline of our work and result can be found [here](https://github.com/hejj16/Hackathon-2021/blob/main/Presentation_Slide.pdf).
+An outline of our work and results can be found [here](https://github.com/hejj16/Hackathon-2021/blob/main/Presentation_Slide.pdf).
 
 A more detailed description is shown below.
 
