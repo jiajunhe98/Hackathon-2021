@@ -53,7 +53,7 @@ Model 2: [Transformer+LSTM without SS](https://github.com/hejj16/Hackathon-2021/
 
 Model 3: [Transformer+LSTM+Contact Map](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_with_Contact_Map.ipynb)
 
-[NoteBook for testing]()
+[NoteBook for testing](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Test_Transformer_LSTM%20(1).ipynb)
 
 
 
