@@ -53,6 +53,8 @@ Here are the notebooks for these models:
 
 [Transformer+LSTM+Contact Map](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_with_Contact_Map.ipynb)
 
+[NoteBook for testing]()
+
 
 
 ## 3 Results and Plots
