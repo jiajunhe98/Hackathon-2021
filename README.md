@@ -49,7 +49,7 @@ Here are the notebooks for these models:
 
 [Transformer+LSTM using SS](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_with_SS_without_Contact_Map.ipynb)
 
-[Transformer+LSTM without SS](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_without_SS_without_Contact_Map.ipynb)
+[Transformer+LSTM without SS](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_without_SS_without_Contact_Map.ipynb)(The Best Model)
 
 [Transformer+LSTM+Contact Map](https://github.com/hejj16/Hackathon-2021/blob/main/Codes_and_Weights/Train_Transformer_LSTM_with_Contact_Map.ipynb)
 
