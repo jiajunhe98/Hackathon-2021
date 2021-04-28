@@ -1,7 +1,7 @@
 # Hackathon-2021
 
 
-This repository stores the code and results in BioHackathon-2021, aiming to predict the stability of mutated proteins.
+This repository stores the codes and results in BioHackathon-2021, aiming to predict the stability of multiple mutated proteins.
 
 The descriptions of this Hackathon can be found [here](https://biohackathon.biolib.com/event/2021-protein-edition).
 
